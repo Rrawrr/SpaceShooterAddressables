@@ -17,13 +17,14 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 343343c768be4204fa80566cd8e6aed5
   m_SerializeEntries:
-  - m_GUID: d6cf7ed2faf3b47eb8f72eaa9c1a495a
-    m_Address: SpaceShooter
+  - m_GUID: 6d0acc00cc82d436b9d11446d2ddfef6
+    m_Address: Assets/LunarConsole/Scripts/LunarConsole.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
+    m_MainAsset: {fileID: 183544, guid: 6d0acc00cc82d436b9d11446d2ddfef6, type: 3}
+    m_TargetAsset: {fileID: 183544, guid: 6d0acc00cc82d436b9d11446d2ddfef6, type: 3}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 048acd6f751689a41b9053bbf472e82f, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: f36e8d868c16334418e9fd3ef3d6cf1b, type: 2}
-    - {fileID: 11400000, guid: 6bd39b1044c70af439e2eb8a1fc2d39d, type: 2}
